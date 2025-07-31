@@ -1,3 +1,3 @@
 # React + Vite
 
-[](https://github.com/FxIvan/Slider-Infinito/blob/main/carruselgif.gif)
+![Carrusel GIF](https://github.com/FxIvan/Slider-Infinito/blob/main/carruselgif.gif)
